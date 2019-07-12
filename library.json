@@ -4,7 +4,7 @@
     "keywords": "esp32,wifi,rest,client",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eduardomarcos/arduino-esp32-restclient.git"
+        "url": "https://github.com/eduardomarcos/arduino-esp32-restclient"
     },
     "authors": [
         {
