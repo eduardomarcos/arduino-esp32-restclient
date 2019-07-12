@@ -1,0 +1,18 @@
+{
+    "name": "Arduino-ESP32-Rest-Client",
+    "description": "Arduino WIFI Rest Client for ESP32",
+    "keywords": "esp32,wifi,rest,client",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eduardomarcos/arduino-esp32-restclient.git"
+    },
+    "authors": [
+        {
+            "name": "Eduardo Marcos",
+            "email": "dudy1984@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "frameworks": "espidf",
+    "platforms": "*"
+}

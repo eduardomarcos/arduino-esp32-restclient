@@ -1,2 +1,2 @@
-# arduino-esp32-restclient
+# Arduino ESP32 Rest Client
 ESP32 Rest Client for Arduino
