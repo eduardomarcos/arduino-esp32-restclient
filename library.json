@@ -13,6 +13,6 @@
             "maintainer": true
         }
     ],
-    "frameworks": "espidf",
+    "frameworks": "arduino",
     "platforms": "*"
 }
