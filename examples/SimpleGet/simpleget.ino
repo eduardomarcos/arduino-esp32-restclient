@@ -4,7 +4,7 @@ RestClient client = RestClient("google.es", 443);
 
 void setup()
 {
-    Serial.begin(9600);
+    Serial.begin(115200);
     delay(1000);
 
     client.begin("ssid", "password");
